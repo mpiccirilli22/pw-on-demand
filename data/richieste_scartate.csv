@@ -1,0 +1,5 @@
+id_richiesta,id_cliente,id_fornitore,id_operatore,data_ora,importo,tempo_erogazione_min,stato
+R00022,C9999,F0300,O0049,2025-07-12 10:53,0.0,,annullata
+R00389,C9999,F0054,O0106,2025-11-08 09:04,0.0,,annullata
+R00534,C9999,F0139,O0110,2025-12-18 09:09,58.72,94.0,completata
+R00595,C9999,F0139,O0167,2025-12-31 10:17,47.38,171.0,completata

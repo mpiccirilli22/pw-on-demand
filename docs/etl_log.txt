@@ -1,0 +1,7 @@
+[EXTRACT] clienti=320 fornitori=300 operatori=300 richieste=608
+[TRANSFORM] testi uniformati (zone, stati)
+[TRANSFORM] duplicati rimossi: 8
+[TRANSFORM] richieste con riferimenti orfani scartate: 4 (salvate in data/richieste_scartate.csv)
+[TRANSFORM] importi mancanti imputati (mediana per categoria): 10
+[TRANSFORM] controlli di qualità superati. Righe nei fatti: 596
+[LOAD] database creato: warehouse.db | fatti=596 | clienti=320 fornitori=300 operatori=300 tempo=4416

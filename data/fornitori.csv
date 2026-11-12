@@ -1,0 +1,301 @@
+id_fornitore,nome,categoria_servizio,zona
+F0001,Fornitore 001,Riparazioni,Centro
+F0002,Fornitore 002,Pulizie,Centro
+F0003,Fornitore 003,Consegne,Centro
+F0004,Fornitore 004,Riparazioni,Ovest
+F0005,Fornitore 005,Pulizie,Sud
+F0006,Fornitore 006,Riparazioni,Sud
+F0007,Fornitore 007,Consegne,Ovest
+F0008,Fornitore 008,Pulizie,Est
+F0009,Fornitore 009,Consegne,Ovest
+F0010,Fornitore 010,Consegne,Ovest
+F0011,Fornitore 011,Assistenza IT,Nord
+F0012,Fornitore 012,Consegne,Centro
+F0013,Fornitore 013,Consegne,Est
+F0014,Fornitore 014,Riparazioni,Ovest
+F0015,Fornitore 015,Assistenza IT,Nord
+F0016,Fornitore 016,Consegne,Centro
+F0017,Fornitore 017,Riparazioni,Sud
+F0018,Fornitore 018,Consegne,Est
+F0019,Fornitore 019,Riparazioni,Nord
+F0020,Fornitore 020,Consegne,Est
+F0021,Fornitore 021,Assistenza IT,Centro
+F0022,Fornitore 022,Giardinaggio,Centro
+F0023,Fornitore 023,Giardinaggio,Sud
+F0024,Fornitore 024,Consegne,Sud
+F0025,Fornitore 025,Consegne,Est
+F0026,Fornitore 026,Assistenza IT,Centro
+F0027,Fornitore 027,Riparazioni,Ovest
+F0028,Fornitore 028,Giardinaggio,Nord
+F0029,Fornitore 029,Consegne,Ovest
+F0030,Fornitore 030,Pulizie,Nord
+F0031,Fornitore 031,Pulizie,Est
+F0032,Fornitore 032,Giardinaggio,Centro
+F0033,Fornitore 033,Pulizie,Centro
+F0034,Fornitore 034,Riparazioni,Nord
+F0035,Fornitore 035,Riparazioni,Est
+F0036,Fornitore 036,Pulizie,Nord
+F0037,Fornitore 037,Riparazioni,Est
+F0038,Fornitore 038,Assistenza IT,Est
+F0039,Fornitore 039,Pulizie,Ovest
+F0040,Fornitore 040,Giardinaggio,Est
+F0041,Fornitore 041,Giardinaggio,Centro
+F0042,Fornitore 042,Riparazioni,Est
+F0043,Fornitore 043,Pulizie,Ovest
+F0044,Fornitore 044,Consegne,Centro
+F0045,Fornitore 045,Pulizie,Nord
+F0046,Fornitore 046,Riparazioni,Ovest
+F0047,Fornitore 047,Giardinaggio,Nord
+F0048,Fornitore 048,Giardinaggio,Sud
+F0049,Fornitore 049,Assistenza IT,Centro
+F0050,Fornitore 050,Riparazioni,Nord
+F0051,Fornitore 051,Assistenza IT,Est
+F0052,Fornitore 052,Assistenza IT,Nord
+F0053,Fornitore 053,Riparazioni,Est
+F0054,Fornitore 054,Consegne,Est
+F0055,Fornitore 055,Pulizie,Nord
+F0056,Fornitore 056,Pulizie,Nord
+F0057,Fornitore 057,Consegne,Est
+F0058,Fornitore 058,Pulizie,Sud
+F0059,Fornitore 059,Pulizie,Nord
+F0060,Fornitore 060,Giardinaggio,Ovest
+F0061,Fornitore 061,Giardinaggio,Centro
+F0062,Fornitore 062,Consegne,Nord
+F0063,Fornitore 063,Giardinaggio,Ovest
+F0064,Fornitore 064,Giardinaggio,Nord
+F0065,Fornitore 065,Pulizie,Sud
+F0066,Fornitore 066,Riparazioni,Ovest
+F0067,Fornitore 067,Riparazioni,Sud
+F0068,Fornitore 068,Pulizie,Sud
+F0069,Fornitore 069,Assistenza IT,Centro
+F0070,Fornitore 070,Riparazioni,Nord
+F0071,Fornitore 071,Consegne,Sud
+F0072,Fornitore 072,Pulizie,Ovest
+F0073,Fornitore 073,Pulizie,Nord
+F0074,Fornitore 074,Giardinaggio,Ovest
+F0075,Fornitore 075,Pulizie,Sud
+F0076,Fornitore 076,Pulizie,Sud
+F0077,Fornitore 077,Riparazioni,Nord
+F0078,Fornitore 078,Consegne,Est
+F0079,Fornitore 079,Consegne,Nord
+F0080,Fornitore 080,Consegne,Centro
+F0081,Fornitore 081,Pulizie,Est
+F0082,Fornitore 082,Pulizie,Nord
+F0083,Fornitore 083,Giardinaggio,Sud
+F0084,Fornitore 084,Consegne,Sud
+F0085,Fornitore 085,Consegne,Nord
+F0086,Fornitore 086,Consegne,Centro
+F0087,Fornitore 087,Assistenza IT,Centro
+F0088,Fornitore 088,Pulizie,Est
+F0089,Fornitore 089,Riparazioni,Ovest
+F0090,Fornitore 090,Consegne,Ovest
+F0091,Fornitore 091,Riparazioni,Nord
+F0092,Fornitore 092,Giardinaggio,Nord
+F0093,Fornitore 093,Consegne,Nord
+F0094,Fornitore 094,Assistenza IT,Sud
+F0095,Fornitore 095,Giardinaggio,Nord
+F0096,Fornitore 096,Consegne,Centro
+F0097,Fornitore 097,Giardinaggio,Ovest
+F0098,Fornitore 098,Consegne,Ovest
+F0099,Fornitore 099,Giardinaggio,Ovest
+F0100,Fornitore 100,Riparazioni,Centro
+F0101,Fornitore 101,Consegne,Est
+F0102,Fornitore 102,Consegne,Est
+F0103,Fornitore 103,Pulizie,Nord
+F0104,Fornitore 104,Riparazioni,Sud
+F0105,Fornitore 105,Giardinaggio,Sud
+F0106,Fornitore 106,Consegne,Centro
+F0107,Fornitore 107,Pulizie,Est
+F0108,Fornitore 108,Riparazioni,Est
+F0109,Fornitore 109,Pulizie,Sud
+F0110,Fornitore 110,Pulizie,Est
+F0111,Fornitore 111,Giardinaggio,Est
+F0112,Fornitore 112,Riparazioni,Sud
+F0113,Fornitore 113,Riparazioni,Centro
+F0114,Fornitore 114,Consegne,Est
+F0115,Fornitore 115,Pulizie,Est
+F0116,Fornitore 116,Riparazioni,Ovest
+F0117,Fornitore 117,Assistenza IT,Nord
+F0118,Fornitore 118,Consegne,Sud
+F0119,Fornitore 119,Giardinaggio,Ovest
+F0120,Fornitore 120,Consegne,Sud
+F0121,Fornitore 121,Consegne,Ovest
+F0122,Fornitore 122,Assistenza IT,Nord
+F0123,Fornitore 123,Giardinaggio,Nord
+F0124,Fornitore 124,Assistenza IT,Est
+F0125,Fornitore 125,Giardinaggio,Centro
+F0126,Fornitore 126,Assistenza IT,Sud
+F0127,Fornitore 127,Giardinaggio,Sud
+F0128,Fornitore 128,Pulizie,Sud
+F0129,Fornitore 129,Assistenza IT,Ovest
+F0130,Fornitore 130,Riparazioni,Nord
+F0131,Fornitore 131,Consegne,Est
+F0132,Fornitore 132,Consegne,Ovest
+F0133,Fornitore 133,Giardinaggio,Est
+F0134,Fornitore 134,Giardinaggio,Centro
+F0135,Fornitore 135,Riparazioni,Nord
+F0136,Fornitore 136,Assistenza IT,Est
+F0137,Fornitore 137,Assistenza IT,Sud
+F0138,Fornitore 138,Riparazioni,Nord
+F0139,Fornitore 139,Pulizie,Centro
+F0140,Fornitore 140,Pulizie,Ovest
+F0141,Fornitore 141,Assistenza IT,Centro
+F0142,Fornitore 142,Consegne,Nord
+F0143,Fornitore 143,Giardinaggio,Est
+F0144,Fornitore 144,Consegne,Nord
+F0145,Fornitore 145,Giardinaggio,Ovest
+F0146,Fornitore 146,Riparazioni,Ovest
+F0147,Fornitore 147,Assistenza IT,Ovest
+F0148,Fornitore 148,Pulizie,Ovest
+F0149,Fornitore 149,Consegne,Centro
+F0150,Fornitore 150,Assistenza IT,Centro
+F0151,Fornitore 151,Giardinaggio,Centro
+F0152,Fornitore 152,Giardinaggio,Sud
+F0153,Fornitore 153,Pulizie,Ovest
+F0154,Fornitore 154,Riparazioni,Est
+F0155,Fornitore 155,Pulizie,Est
+F0156,Fornitore 156,Pulizie,Ovest
+F0157,Fornitore 157,Consegne,Est
+F0158,Fornitore 158,Assistenza IT,Centro
+F0159,Fornitore 159,Assistenza IT,Sud
+F0160,Fornitore 160,Giardinaggio,Sud
+F0161,Fornitore 161,Assistenza IT,Nord
+F0162,Fornitore 162,Assistenza IT,Est
+F0163,Fornitore 163,Pulizie,Est
+F0164,Fornitore 164,Pulizie,Est
+F0165,Fornitore 165,Consegne,Sud
+F0166,Fornitore 166,Giardinaggio,Est
+F0167,Fornitore 167,Pulizie,Ovest
+F0168,Fornitore 168,Consegne,Sud
+F0169,Fornitore 169,Consegne,Sud
+F0170,Fornitore 170,Pulizie,Nord
+F0171,Fornitore 171,Riparazioni,Est
+F0172,Fornitore 172,Giardinaggio,Ovest
+F0173,Fornitore 173,Consegne,Est
+F0174,Fornitore 174,Pulizie,Ovest
+F0175,Fornitore 175,Giardinaggio,Ovest
+F0176,Fornitore 176,Riparazioni,Est
+F0177,Fornitore 177,Giardinaggio,Sud
+F0178,Fornitore 178,Riparazioni,Nord
+F0179,Fornitore 179,Consegne,Nord
+F0180,Fornitore 180,Riparazioni,Centro
+F0181,Fornitore 181,Riparazioni,Sud
+F0182,Fornitore 182,Giardinaggio,Est
+F0183,Fornitore 183,Pulizie,Sud
+F0184,Fornitore 184,Pulizie,Nord
+F0185,Fornitore 185,Riparazioni,Centro
+F0186,Fornitore 186,Assistenza IT,Ovest
+F0187,Fornitore 187,Assistenza IT,Ovest
+F0188,Fornitore 188,Giardinaggio,Centro
+F0189,Fornitore 189,Riparazioni,Ovest
+F0190,Fornitore 190,Riparazioni,Est
+F0191,Fornitore 191,Pulizie,Ovest
+F0192,Fornitore 192,Consegne,Ovest
+F0193,Fornitore 193,Giardinaggio,Est
+F0194,Fornitore 194,Assistenza IT,Centro
+F0195,Fornitore 195,Consegne,Est
+F0196,Fornitore 196,Riparazioni,Centro
+F0197,Fornitore 197,Giardinaggio,Centro
+F0198,Fornitore 198,Consegne,Est
+F0199,Fornitore 199,Pulizie,Sud
+F0200,Fornitore 200,Riparazioni,Sud
+F0201,Fornitore 201,Pulizie,Centro
+F0202,Fornitore 202,Pulizie,Sud
+F0203,Fornitore 203,Pulizie,Nord
+F0204,Fornitore 204,Riparazioni,Est
+F0205,Fornitore 205,Consegne,Sud
+F0206,Fornitore 206,Riparazioni,Ovest
+F0207,Fornitore 207,Riparazioni,Sud
+F0208,Fornitore 208,Giardinaggio,Sud
+F0209,Fornitore 209,Assistenza IT,Nord
+F0210,Fornitore 210,Consegne,Nord
+F0211,Fornitore 211,Riparazioni,Centro
+F0212,Fornitore 212,Giardinaggio,Centro
+F0213,Fornitore 213,Pulizie,Centro
+F0214,Fornitore 214,Riparazioni,Centro
+F0215,Fornitore 215,Giardinaggio,Est
+F0216,Fornitore 216,Consegne,Nord
+F0217,Fornitore 217,Assistenza IT,Centro
+F0218,Fornitore 218,Consegne,Nord
+F0219,Fornitore 219,Consegne,Centro
+F0220,Fornitore 220,Riparazioni,Est
+F0221,Fornitore 221,Pulizie,Nord
+F0222,Fornitore 222,Riparazioni,Centro
+F0223,Fornitore 223,Pulizie,Nord
+F0224,Fornitore 224,Giardinaggio,Ovest
+F0225,Fornitore 225,Riparazioni,Est
+F0226,Fornitore 226,Consegne,Centro
+F0227,Fornitore 227,Assistenza IT,Nord
+F0228,Fornitore 228,Assistenza IT,Nord
+F0229,Fornitore 229,Riparazioni,Sud
+F0230,Fornitore 230,Consegne,Est
+F0231,Fornitore 231,Giardinaggio,Sud
+F0232,Fornitore 232,Consegne,Ovest
+F0233,Fornitore 233,Assistenza IT,Centro
+F0234,Fornitore 234,Giardinaggio,Centro
+F0235,Fornitore 235,Assistenza IT,Sud
+F0236,Fornitore 236,Pulizie,Centro
+F0237,Fornitore 237,Consegne,Ovest
+F0238,Fornitore 238,Pulizie,Nord
+F0239,Fornitore 239,Consegne,Sud
+F0240,Fornitore 240,Giardinaggio,Sud
+F0241,Fornitore 241,Consegne,Nord
+F0242,Fornitore 242,Riparazioni,Sud
+F0243,Fornitore 243,Pulizie,Sud
+F0244,Fornitore 244,Giardinaggio,Centro
+F0245,Fornitore 245,Pulizie,Nord
+F0246,Fornitore 246,Pulizie,Nord
+F0247,Fornitore 247,Pulizie,Nord
+F0248,Fornitore 248,Pulizie,Sud
+F0249,Fornitore 249,Riparazioni,Nord
+F0250,Fornitore 250,Consegne,Ovest
+F0251,Fornitore 251,Riparazioni,Centro
+F0252,Fornitore 252,Pulizie,Est
+F0253,Fornitore 253,Pulizie,Est
+F0254,Fornitore 254,Riparazioni,Sud
+F0255,Fornitore 255,Pulizie,Ovest
+F0256,Fornitore 256,Assistenza IT,Nord
+F0257,Fornitore 257,Pulizie,Centro
+F0258,Fornitore 258,Riparazioni,Centro
+F0259,Fornitore 259,Riparazioni,Nord
+F0260,Fornitore 260,Riparazioni,Centro
+F0261,Fornitore 261,Pulizie,Centro
+F0262,Fornitore 262,Pulizie,Est
+F0263,Fornitore 263,Giardinaggio,Centro
+F0264,Fornitore 264,Pulizie,Ovest
+F0265,Fornitore 265,Consegne,Est
+F0266,Fornitore 266,Consegne,Ovest
+F0267,Fornitore 267,Riparazioni,Nord
+F0268,Fornitore 268,Riparazioni,Ovest
+F0269,Fornitore 269,Assistenza IT,Est
+F0270,Fornitore 270,Giardinaggio,Ovest
+F0271,Fornitore 271,Riparazioni,Centro
+F0272,Fornitore 272,Riparazioni,Ovest
+F0273,Fornitore 273,Pulizie,Sud
+F0274,Fornitore 274,Consegne,Nord
+F0275,Fornitore 275,Assistenza IT,Sud
+F0276,Fornitore 276,Pulizie,Nord
+F0277,Fornitore 277,Riparazioni,Ovest
+F0278,Fornitore 278,Giardinaggio,Centro
+F0279,Fornitore 279,Pulizie,Centro
+F0280,Fornitore 280,Consegne,Sud
+F0281,Fornitore 281,Assistenza IT,Sud
+F0282,Fornitore 282,Pulizie,Nord
+F0283,Fornitore 283,Pulizie,Ovest
+F0284,Fornitore 284,Pulizie,Ovest
+F0285,Fornitore 285,Giardinaggio,Est
+F0286,Fornitore 286,Pulizie,Est
+F0287,Fornitore 287,Pulizie,Sud
+F0288,Fornitore 288,Pulizie,Sud
+F0289,Fornitore 289,Pulizie,Sud
+F0290,Fornitore 290,Consegne,Nord
+F0291,Fornitore 291,Pulizie,Nord
+F0292,Fornitore 292,Consegne,Centro
+F0293,Fornitore 293,Consegne,Sud
+F0294,Fornitore 294,Giardinaggio,Nord
+F0295,Fornitore 295,Pulizie,Nord
+F0296,Fornitore 296,Giardinaggio,Ovest
+F0297,Fornitore 297,Consegne,Centro
+F0298,Fornitore 298,Pulizie,Sud
+F0299,Fornitore 299,Assistenza IT,Sud
+F0300,Fornitore 300,Giardinaggio,Est
