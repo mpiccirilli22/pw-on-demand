@@ -1,0 +1,10 @@
+# Ambiente virtuale e file temporanei di Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# File del sistema operativo e dell'editor
+.DS_Store
+Thumbs.db
+.vscode/
